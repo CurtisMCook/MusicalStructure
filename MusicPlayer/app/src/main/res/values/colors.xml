@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9CCC65</color>
+    <color name="colorPrimaryDark">#7CB342</color>
+    <color name="colorAccent">#29B6F6</color>
+    <color name="artist_color">#757575</color>
+    <color name="album_color">#9E9E9E</color>
+    <color name="song_color">#BDBDBD</color>
+</resources>

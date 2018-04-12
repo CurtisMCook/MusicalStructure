@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="library">Library</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="song">Song</string>
+    <string name="library_description">Shows all the contents in your library</string>
+    <string name="artist_description">Shows all the artist in your library</string>
+    <string name="album_description">Shows all the albums in your library.</string>
+    <string name="song_description">Shows all the songs in your library.</string>
+</resources>
